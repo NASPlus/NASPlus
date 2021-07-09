@@ -1,10 +1,9 @@
 # NASPlus
 The NAS Made Out of Old Computers/Laptops
 
-Plugins
--------------
-Empty
--------------
+# Plugins
+
+**Empty**
 
 
 
