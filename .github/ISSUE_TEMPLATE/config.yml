@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: NASPlus
+  - name: Back
     url: https://github.com/NASPlus/NASPlus/
-    about: NASPlus
-  - name: NASPlus
-    url: https://github.com/NASPlus/NASPlus/
-    about: NASPlus
+    about: Go Back To The Main Repository
