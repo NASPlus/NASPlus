@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **(please complete the following information):**
  - OS: [e.g. Windows 10]
--  Error Code: [e.g. ERR_EXAMPLE_CODE ]
+ -  Error Code: [e.g. ERR_EXAMPLE_CODE]
  - Version: [e.g. v1.0]
 
 **Additional context**
